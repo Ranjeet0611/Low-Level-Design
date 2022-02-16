@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="com.ranjeet.map.LinkedList"/>
+    <fullyQualifiedTypeName name="com.ranjeet.map.Map"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="com.hashmap.map.Map"/>
+    <fullyQualifiedTypeName name="com.hashmap.linkedlist.LinkedList"/>
+    <fullyQualifiedTypeName name="com.trie.impl.Trie"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.net.HttpURLConnection"/>
+    <fullyQualifiedTypeName name="org.json.simple.parser.JSONParser"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="java.net.URLConnection"/>
+    <fullyQualifiedTypeName name="org.json.JSONArray"/>
+    <fullyQualifiedTypeName name="org.json.simple.JSONArray"/>
+    <fullyQualifiedTypeName name="org.json.simple.JSONObject"/>
+    <fullyQualifiedTypeName name="com.parkinglot.entity.ParkingSpot"/>
+    <fullyQualifiedTypeName name="com.parkinglot.enums.ParkingSpotType"/>
+    <fullyQualifiedTypeName name="com.parkinglot.entity.Vehicle"/>
+    <fullyQualifiedTypeName name="java.util.UUID"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="com.ranjeet.snakeandladder.entity.SnakeAndLadderBoard"/>
+    <fullyQualifiedTypeName name="com.ranjeet.snakeandladder.service.DiceService"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.ranjeet.snakeandladder.entity.Snake"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="com.ranjeet.snakeandladder.entity.Ladder"/>
+    <fullyQualifiedTypeName name="com.ranjeet.snakeandladder.entity.Player"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.ranjeet.snakeandladder.service.SnakeAndLadderService"/>
+</qualifiedTypeNameHistroy>

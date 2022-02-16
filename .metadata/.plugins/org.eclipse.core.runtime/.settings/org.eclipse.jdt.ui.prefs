@@ -1,0 +1,11 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.ranjeet.map.LinkedList"><rhs name\="com.ranjeet.map.LinkedList"/></lhs><lhs name\="com.ranjeet.map.Map"><rhs name\="com.ranjeet.map.Map"/></lhs><lhs name\="com.hashmap.linkedlist.LinkedList"><rhs name\="com.hashmap.linkedlist.LinkedList"/></lhs><lhs name\="com.hashmap.map.Map"><rhs name\="com.hashmap.map.Map"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="com.parkinglot.entity.Vehicle"><rhs name\="com.parkinglot.entity.Vehicle"/></lhs><lhs name\="com.ranjeet.snakeandladder.entity.SnakeAndLadderBoard"><rhs name\="com.ranjeet.snakeandladder.entity.SnakeAndLadderBoard"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.Queue"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="com.ranjeet.snakeandladder.service.SnakeAndLadderService"><rhs name\="com.ranjeet.snakeandladder.service.SnakeAndLadderService"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale=en_GB
+spelling_locale_initialized=true
+typefilter_migrated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

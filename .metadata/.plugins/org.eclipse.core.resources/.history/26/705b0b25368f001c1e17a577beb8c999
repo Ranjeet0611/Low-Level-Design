@@ -1,0 +1,23 @@
+package com.ranjeet.ticktoktoe;
+
+import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class TikTokToe {
+   char board[][];
+   int boardSize;
+   boolean isGameOver;
+   Queue<Player> playerTurns;
+   public TikTokToe(int size) {
+	   
+	   this.boardSize = size;
+	   this.board = new char[size][size];
+	   Arrays.fill(board,'-');
+	   playerTurns = new LinkedList<Player>();
+	   
+   }
+   public void play() {
+	   
+   }
+}

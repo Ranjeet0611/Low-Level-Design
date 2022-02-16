@@ -1,0 +1,17 @@
+package com.ranjeet.ticktoktoe;
+
+public class Coordinates {
+
+	private int x;
+	private int y;
+	public Coordinates(int x,int y) {
+		this.setX(x);
+		this.y = y;
+	}
+	public int getX() {
+		return x;
+	}
+	public void setX(int x) {
+		this.x = x;
+	}
+}

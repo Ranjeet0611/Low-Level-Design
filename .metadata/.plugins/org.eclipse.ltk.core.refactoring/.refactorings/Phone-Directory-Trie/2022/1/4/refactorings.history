@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;object2&apos; from expression &apos;object.get(i)&apos;&#x0A;- Original project: &apos;Phone-Directory-Trie&apos;&#x0A;- Variable name: &apos;object2&apos;&#x0A;- Destination method: &apos;com.trie.main.Main.main(...)&apos;&#x0A;- Variable expression: &apos;object.get(i)&apos;" description="Extract local variable &apos;object2&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.trie.main{Main.java" name="object2" replace="false" selection="959 13" stamp="1643383458131" varType="false" version="1.0"/>
+</session>
