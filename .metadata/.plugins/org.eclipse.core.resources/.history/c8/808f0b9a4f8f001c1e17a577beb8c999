@@ -75,10 +75,9 @@ public class TikTokToe {
 	   return true;
    }
    public boolean checkRightDiagonal(int x,char playerSymbol) {
-	   
-	   int j=0;
-	   for(int i=boardSize-1;i>=0;i--) {
-		   if(board[i][j++]!=playerSymbol) {
+	   int j = x;
+	   for(int i=0;i<boardSize;i++) {
+		   if(board[i][j--]!=playerSymbol) {
 			   return false;
 		   }
 	   }

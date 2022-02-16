@@ -65,20 +65,17 @@ public class TikTokToe {
 	   }
 	   return true;
    }
-   
-   public boolean checkLeftDiagonal(int x,char playerSymbol) {
-	   for(int i=0;i<boardSize;i++) {
+   public boolean checkReverseDiagonal(int x,char playerSymbol) {
+	   for(int i=boardSize-1;i>=0;i--) {
 		   if(board[i][i]!=playerSymbol) {
 			   return false;
 		   }
 	   }
 	   return true;
    }
-   public boolean checkRightDiagonal(int x,char playerSymbol) {
-	   
-	   int j=0;
-	   for(int i=boardSize-1;i>=0;i--) {
-		   if(board[i][j++]!=playerSymbol) {
+   public boolean checkDiagonal(int x,char playerSymbol) {
+	   for(int i=0;i<boardSize;i++) {
+		   if(board[i][i]!=playerSymbol) {
 			   return false;
 		   }
 	   }
@@ -89,7 +86,7 @@ public class TikTokToe {
 	   int x = coordinates[0];
 	   int y = coordinates[1];
 	   char playerSymbol = player.getSymbol().name().charAt(0);
-	   if(checkColumnWise(x,playerSymbol) || checkRowWise(x,playerSymbol) || checkRightDiagonal(x, playerSymbol) || checkLeftDiagonal(x, playerSymbol)) {
+	   if(checkColumnWise(x,playerSymbol) || checkRowWise(x,playerSymbol) || checkReverseDiagonal(x, playerSymbol) || checkDiagonal(x, playerSymbol)) {
 		   return true;
 	   }
 	   return false;
