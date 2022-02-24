@@ -13,14 +13,9 @@ class Vehicle{
 	public int getWheel() {
 		return wheel;
 	}
-	public void setWheel(int wheel) {
-		this.wheel = wheel;
-	}
+	
 	public int getAirbags() {
 		return airbags;
-	}
-	public void setAirbags(int airbags) {
-		this.airbags = airbags;
 	}
 	private Vehicle(VehicleBuilder builder) {
 		this.engine = builder.engine;
