@@ -7,9 +7,6 @@ class Vehicle{
 	public String getEngine() {
 		return engine;
 	}
-	public void setEngine(String engine) {
-		this.engine = engine;
-	}
 	public int getWheel() {
 		return wheel;
 	}
